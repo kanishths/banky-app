@@ -52,8 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(20),
                           image: const DecorationImage(
-                              image:
-                                  AssetImage('assets/images/user_image.png'))),
+                              image: AssetImage('assets/images/pp.png'))),
                     )
                   ],
                 ),
@@ -75,7 +74,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               fontWeight: FontWeight.w500,
                               color: kPinkColor)),
                       // ignore: prefer_const_constructors
-                      Text("Amanda Alex",
+                      Text("Kanishtha Siyaram",
                           // ignore: prefer_const_constructors
                           style: TextStyle(
                               fontSize: 30,
